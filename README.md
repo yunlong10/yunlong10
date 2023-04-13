@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there / 你好 / こんにちは 👋
 
 This is Yunlong Tang.
 
