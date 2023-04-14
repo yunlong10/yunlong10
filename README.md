@@ -10,9 +10,12 @@ Welcome to my GitHub profile~ OwO
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/microsoft/JARVIS/blob/8d925aa33ff058375d1c891fffc63a65150d5009/web/src/assets/huggingface.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" width="26px" src="https://github.com/microsoft/JARVIS/blob/8d925aa33ff058375d1c891fffc63a65150d5009/web/src/assets/chatgpt.svg" style="padding-right:10px;" /> -->
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+
+
