@@ -1,8 +1,6 @@
-### Hi there / 你好 / こんにちは 👋
+### Hi there / 你好 / こんにちは 👋 ![](https://komarev.com/ghpvc/?username=yunlong10&style=plastic)
 
-Welcome to my GitHub profile~ OwO
-
-This is Yunlong Tang (/ynluŋ taŋ/, 唐 云龙 in Chinese).
+Welcome to my GitHub profile ~ OwO ~ This is **Yunlong Tang** ( /ynluŋ taŋ/, 唐 云龙 in Chinese).
 - 🏫 I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
 - 🎓 I'm an incoming Ph.D. student at [University of Rochester](https://www.rochester.edu/) (UR) in 2023 Fall.
 - 🎯 My research interests include **Video Understanding** and **Vision-Language**.
@@ -14,7 +12,6 @@ This is Yunlong Tang (/ynluŋ taŋ/, 唐 云龙 in Chinese).
 <img width="196" src="https://github.com/yunlong10/yunlong10/blob/main/gifs/preview0.gif"/>
 <!-- <img width="196" src="https://github.com/yunlong10/yunlong10/blob/main/gifs/preview.gif"/> -->
 
-![](https://komarev.com/ghpvc/?username=yunlong10&style=plastic)
 ### Languages and Tools
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://github.com/yunlong10/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
