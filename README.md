@@ -7,7 +7,7 @@ This is **Yunlong Tang** ( 唐云龙 | táng yún lóng | たーん ゆいん �
 - 🎓 I'm an incoming Ph.D. student at [University of Rochester](https://www.rochester.edu/) (UR) in 2023 Fall.
 - 🎯 My research interests include **Video Understanding** and **Vision-Language**.
 - 🎮 As a Tech Otaku, I love anime and video games. <code><a href="https://minecraft.net/"><img height="20" src="assets/imgs/minecraft.net.ico" alt="minecraft" /></a></code><code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/imgs/genshin-impact.png" alt="genshin" /></a></code><code><a href="https://www.leagueoflegends.com/en-us/"><img height="20" src="assets/imgs/lol.png" alt="lol" /></a></code> and _ジョジョの奇妙な冒険_ are my favorites.
-- 😜 Fun fact: my nickname YOLO is the soramimi for _Yunlong_ & the _abbr._ for _You Only Live Once_. My ID `yunlong10` is also soramimi (Tang → Ten → 10).
+- 😜 Fun fact: my nickname YOLO is the soramimi of _Yunlong_. Similarly in my ID `yunlong10`: Tang → Ten → 10.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunlong10&layout=compact&theme=default)](https://github.com/yunlong10/github-readme-stats) -->
 [![Yunlong's github stats](https://github-readme-stats.vercel.app/api?username=yunlong10&theme=default)](https://github.com/yunlong10/github-readme-stats)<img width="196" src="assets/gifs/bocchi.gif"/>
