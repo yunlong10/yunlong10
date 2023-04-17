@@ -23,6 +23,9 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 
 <details>
   <summary><b>Languages and Tools</b></summary></summary>
+    
+> Life is short，you need Python.
+    
 <p align="left">
 <img width="26" src="assets/svgs/python-original.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/pytorch-original.svg" style="padding-right:10px;" />
