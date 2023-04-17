@@ -11,6 +11,7 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 
 <details>
 <summary><b>More Details</b></summary>
+    <br>
 <details>
     <summary><b>Achievements</b></summary><img width="120" align="right" src="assets/gifs/bocchi.gif"/>
 
