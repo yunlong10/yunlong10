@@ -1,4 +1,4 @@
-### Hi there / 你好 / こんにちは 👋 ![](https://komarev.com/ghpvc/?username=yunlong10&style=flat)<img width="100" align="right" src="assets/gifs/bocchi.gif"/>
+### Hi there / 你好 / こんにちは 👋 ![](https://komarev.com/ghpvc/?username=yunlong10&style=flat)<img width="150" align="right" src="assets/gifs/bocchi.gif"/>
 
 Welcome to my GitHub profile ~ OwO ~
 
@@ -13,8 +13,7 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 <summary><b>More Details</b></summary>
     <br>
 <details>
-    <summary><b>Achievements</b></summary><img width="50" align="right" src="assets/gifs/bocchi.gif"/>
-
+    <summary><b>Achievements</b></summary>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunlong10&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=yunlong10&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="yunlong10's Github Stats" />
@@ -23,7 +22,7 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 </details>
 
 <details>
-  <summary><b>Languages and Tools</b></summary></summary><img width="100" align="right" src="assets/gifs/bocchi.gif"/>
+  <summary><b>Languages and Tools</b></summary></summary>
 <p align="left">
 <img width="26" src="assets/svgs/python-original.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/pytorch-original.svg" style="padding-right:10px;" />
