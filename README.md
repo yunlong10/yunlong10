@@ -13,7 +13,7 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 <summary><b>More Details</b></summary>
     <br>
 <details>
-    <summary><b>Achievements</b></summary><img width="100" align="right" src="assets/gifs/bocchi.gif"/>
+    <summary><b>Achievements</b></summary><img width="50" align="right" src="assets/gifs/bocchi.gif"/>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunlong10&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
