@@ -50,10 +50,10 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
   <table border="0">
   <tr>
     <td width="50%">
-      <img src="assets/imgs/m_san.png" height="100%"> 
+      <img src="assets/imgs/m_san.png"> 
     </td>
     <td width="50%">
-       <img src="assets/imgs/ppl.png" height="100%"> 
+       <img src="assets/imgs/ppl.png"> 
     </td>
   </tr>
 </table>
