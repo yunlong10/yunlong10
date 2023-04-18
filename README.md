@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile ~ OwO ~
 
-This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆいん ろーん ). 
+This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆいん ろーん ). 
 - 🏫 I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
 - 🎓 I'm an incoming CS Ph.D. student at [University of Rochester](https://www.rochester.edu/) (UR) in 2023 Fall.
 - 🎯 My research interests include **Video Understanding** and **Vision-Language**.
