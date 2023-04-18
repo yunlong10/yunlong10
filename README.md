@@ -23,7 +23,8 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 
 <details>
   <summary><b>Languages and Tools</b></summary></summary>
-    
+<p></p>
+
 > Life is short，you need Python.
     
 <p align="left">
@@ -34,6 +35,7 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 <img width="26px" src="assets/svgs/chatgpt.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/anaconda-original.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/jupyter-original.svg" style="padding-right:10px;" />
+<img width="26px" src="assets/svgs/overleaf.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/github-original.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/git-original.svg" style="padding-right:10px;" />
 <img width="26px" src="assets/svgs/opencv-original.svg" style="padding-right:10px;" />
@@ -45,7 +47,7 @@ This is **Yunlong Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆい
 <details>
   <summary><b>Publications</b></summary>
 
-- *Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward*<br>
+- *Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward*\
   **Yunlong Tang**, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng; Proceedings of the Asian Conference on Computer Vision (ACCV), 2022, pp. 3519-3535. [[ACCV'22]](https://openaccess.thecvf.com/content/ACCV2022/html/Tang_Multi-modal_Segment_Assemblage_Network_for_Ad_Video_Editing_with_Importance-Coherence_ACCV_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2209.12164v1) [[Dataset]](https://github.com/yunlong10/ads-1k) [[News]](https://mp.weixin.qq.com/s/AqWcD0V_GHvgYtgxx1tHyA)
   <table border="0">
   <tr>
