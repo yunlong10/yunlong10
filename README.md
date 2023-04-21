@@ -47,8 +47,10 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
 <details>
   <summary><b>Publications</b></summary>
 
-- *Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward*\
-  **Yunlong Tang**, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng; Proceedings of the Asian Conference on Computer Vision (ACCV), 2022, pp. 3519-3535. [[ACCV'22]](https://openaccess.thecvf.com/content/ACCV2022/html/Tang_Multi-modal_Segment_Assemblage_Network_for_Ad_Video_Editing_with_Importance-Coherence_ACCV_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2209.12164v1) [[Dataset]](https://github.com/yunlong10/ads-1k) [[News]](https://mp.weixin.qq.com/s/AqWcD0V_GHvgYtgxx1tHyA)
+- **Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**\
+  **Yunlong Tang**, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng\
+    *ACCV'22: Asian Conference on Computer Vision.*\
+    [[CVF]](https://openaccess.thecvf.com/content/ACCV2022/html/Tang_Multi-modal_Segment_Assemblage_Network_for_Ad_Video_Editing_with_Importance-Coherence_ACCV_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2209.12164v1) [[Dataset]](https://github.com/yunlong10/ads-1k) [[News]](https://mp.weixin.qq.com/s/AqWcD0V_GHvgYtgxx1tHyA)
   <table border="0">
   <tr>
     <td width="50%">
