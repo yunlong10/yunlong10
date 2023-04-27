@@ -1,13 +1,13 @@
-### Hi there / 你好 / こんにちは 👋 ![](https://komarev.com/ghpvc/?username=yunlong10&style=flat)<img width="150" align="right" src="assets/gifs/bocchi.gif"/>
+### Hi there / 你好 / こんにちは :wave: ![](https://komarev.com/ghpvc/?username=yunlong10&style=flat)<img width="150" align="right" src="assets/gifs/bocchi.gif"/>
 
 Welcome to my GitHub profile ~ OwO ~
 
 This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆいん ろーん ). 
-- 🏫 I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
-- 🎓 I'm an incoming CS Ph.D. student at [University of Rochester](https://www.rochester.edu/) (UR) in 2023 Fall.
-- 🎯 My research interests include **Video Understanding** and **Vision-Language**.
-- 🎮 As a Tech Otaku, I love anime and video games. <code><a href="https://minecraft.net/"><img height="20" src="assets/imgs/minecraft.net.ico" alt="minecraft" /></a></code><code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/imgs/genshin-impact.png" alt="genshin" /></a></code><code><a href="https://www.leagueoflegends.com/en-us/"><img height="20" src="assets/imgs/lol.png" alt="lol" /></a></code> and _ジョジョの奇妙な冒険_ are my favorites.
-- 😜 Fun fact: my nickname YOLO is the soramimi of _Yunlong_. Similarly in my ID `yunlong10`: Tang → Ten → 10.
+- :school: I'm currently a final-year undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
+- :mortar_board: I'm an incoming CS Ph.D. student at [University of Rochester](https://www.rochester.edu/) (UR) in 2023 Fall.
+- :dart: My research interests include **Video Understanding** and **Vision-Language**.
+- :video_game: As a Tech Otaku, I love anime and video games. <code><a href="https://minecraft.net/"><img height="20" src="assets/imgs/minecraft.net.ico" alt="minecraft" /></a></code><code><a href="https://genshin.mihoyo.com/"><img height="20" src="assets/imgs/genshin-impact.png" alt="genshin" /></a></code><code><a href="https://www.leagueoflegends.com/en-us/"><img height="20" src="assets/imgs/lol.png" alt="lol" /></a></code> and _ジョジョの奇妙な冒険_ are my favorites.
+- :stuck_out_tongue_winking_eye: Fun fact: my nickname YOLO is the soramimi of _Yunlong_. Similarly in my ID `yunlong10`: Tang → Ten → 10.
 
 <details>
 <summary><b>More Details</b></summary>
