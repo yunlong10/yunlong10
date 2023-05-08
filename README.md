@@ -47,6 +47,18 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
 <details>
   <summary><b>Publications</b></summary>
 
+- **Caption Anything: Interactive Image Description with Diverse Multimodal Controls**\
+  Teng Wang, Jinrui Zhang, Junjie Fei, Yixiao Ge, Hao Zheng, **Yunlong Tang**, Zhe Li, Mingqi Gao, Shanshan Zhao, Ying Shan, Feng Zheng\
+    *Preprint arXiv:2305.02677*\
+    [[arXiv]](https://arxiv.org/abs/2305.02677) [[GitHub]](https://github.com/ttengwang/caption-anything) [[Demo]](https://huggingface.co/spaces/TencentARC/Caption-Anything)
+  <table border="0">
+  <tr>
+    <td width="100%">
+       <img src="assets/imgs/cat.png"> 
+    </td>
+  </tr>
+  </table>
+
 - **Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**\
   **Yunlong Tang**, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng\
     *ACCV'22: Asian Conference on Computer Vision.*\
@@ -60,7 +72,8 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
        <img src="assets/imgs/ppl.png"> 
     </td>
   </tr>
-</table>
+  </table>
+
 </details>
 
 </details>
