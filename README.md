@@ -48,7 +48,7 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
   <summary><b>Publications</b></summary>
 
 - **Caption Anything: Interactive Image Description with Diverse Multimodal Controls**\
-  Teng Wang, Jinrui Zhang, Junjie Fei, Yixiao Ge, Hao Zheng, **Yunlong Tang**, Zhe Li, Mingqi Gao, Shanshan Zhao, Ying Shan, Feng Zheng\
+  Teng Wang, Jinrui Zhang, Junjie Fei, Hao Zheng, **Yunlong Tang**, Zhe Li, Mingqi Gao, Shanshan Zhao\
     *Preprint arXiv:2305.02677*\
     [[arXiv]](https://arxiv.org/abs/2305.02677) [[GitHub]](https://github.com/ttengwang/caption-anything) [[Demo]](https://huggingface.co/spaces/TencentARC/Caption-Anything)
   <table border="0">
