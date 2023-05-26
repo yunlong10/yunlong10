@@ -12,14 +12,14 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
 <details>
 <summary><b>More Details</b></summary>
     <br>
-<details>
+<!-- <details>
     <summary><b>Achievements</b></summary>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunlong10&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=yunlong10&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="yunlong10's Github Stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=yunlong10&column=7" alt="yunlong10's Github Trophy" />
 </p>
-</details>
+</details> -->
 
 <details>
   <summary><b>Languages and Tools</b></summary></summary>
