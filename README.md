@@ -45,9 +45,24 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
 </details>
 
 <details>
-  <summary><b>Publications</b></summary>
+  <summary><b>Research</b></summary>
 
-- **Caption Anything: Interactive Image Description with Diverse Multimodal Controls**\
+- ***LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning***\
+   **Yunlong Tang**, Jinrui Zhang, Xiangchen Wang, Teng Wang, Feng Zheng\
+    *CVPRW'23: Computer Vision and Pattern Recognition Workshop*\
+    [[GitHub]](https://github.com/zjr2000/LLMVA-GEBC) 
+  <table border="0">
+  <tr>
+    <td width="65%">
+       <img src="assets/imgs/llmva-gebc.png"> 
+    </td>
+    <td width="35%">
+       <img src="assets/imgs/cvprw23FirstPlaceAward.png"> 
+    </td>
+  </tr>
+  </table>
+
+- ***Caption Anything: Interactive Image Description with Diverse Multimodal Controls***\
   Teng Wang, Jinrui Zhang, Junjie Fei, Hao Zheng, **Yunlong Tang**, Zhe Li, Mingqi Gao, Shanshan Zhao\
     *Preprint arXiv:2305.02677*\
     [[arXiv]](https://arxiv.org/abs/2305.02677) [[GitHub]](https://github.com/ttengwang/caption-anything) [[Demo]](https://huggingface.co/spaces/TencentARC/Caption-Anything)
@@ -59,7 +74,7 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
   </tr>
   </table>
 
-- **Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**\
+- ***Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward***\
   **Yunlong Tang**, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng\
     *ACCV'22: Asian Conference on Computer Vision.*\
     [[CVF]](https://openaccess.thecvf.com/content/ACCV2022/html/Tang_Multi-modal_Segment_Assemblage_Network_for_Ad_Video_Editing_with_Importance-Coherence_ACCV_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2209.12164v1) [[Dataset]](https://github.com/yunlong10/ads-1k) [[News]](https://mp.weixin.qq.com/s/AqWcD0V_GHvgYtgxx1tHyA)
