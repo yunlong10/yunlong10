@@ -57,7 +57,7 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
        <img src="assets/imgs/llmva-gebc.png"> 
     </td>
     <td width="35%">
-       <img src="assets/imgs/cvprw23FirstPlaceAward.png"> 
+       <img src="assets/imgs/cvprw23FirstPlace.png"> 
     </td>
   </tr>
   </table>
