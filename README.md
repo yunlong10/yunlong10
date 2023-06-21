@@ -50,7 +50,7 @@ This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん
 - ***LLMVA-GEBC: Large Language Model with Video Adapter for Generic Event Boundary Captioning***\
    **Yunlong Tang**, Jinrui Zhang, Xiangchen Wang, Teng Wang, Feng Zheng\
     *CVPRW'23: Computer Vision and Pattern Recognition Workshop*\
-    [[GitHub]](https://github.com/zjr2000/LLMVA-GEBC) 
+    [[arXiv]](https://arxiv.org/abs/2306.10354) [[GitHub]](https://github.com/zjr2000/LLMVA-GEBC) 
   <table border="0">
   <tr>
     <td width="65%">
