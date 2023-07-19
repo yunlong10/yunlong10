@@ -1,7 +1,5 @@
 ### Hi there / 你好 / こんにちは :wave: ![](https://komarev.com/ghpvc/?username=yunlong10&style=flat)<img width="150" align="right" src="assets/gifs/bocchi.gif"/>
 
-Welcome to my GitHub profile ~ OwO ~
-
 This is **Yunlong (Yolo) Tang** ( 唐&nbsp;云龙 | táng yún lóng | たーん ゆいん ろーん ). 
 - :school: I'm an incoming CS Ph.D. student at the [University of Rochester](https://www.rochester.edu/) (UR) in 2023 Fall.
 - :mortar_board: I obtained my bachelor's degree from the [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech).
